@@ -40,6 +40,20 @@ Configuration should not be a criteria for the first version but it must be poss
 
 The Administrator must be able to add a new Item.
 
+## Print list
+
+The Administrator must be able to print a list of all current Items.
+
+The List contains the following information:
+* Header with:
+  * Military Grade
+  * Name
+  * Signature
+* Lines containing:
+  * Military Grade
+  * Name
+  * Empty space for signature
+
 ### Remove checked-out packages
 
 The Administrator must be able to remove a checked out item. The removal of an Item is definitive.
@@ -53,6 +67,20 @@ A User must be able to see the list of currently listed packages for check out.
 ## Public stats about the amount of packages received over time
 
 Users must be able to see the historical data about the amount of packages received per day.
+
+## Security
+
+### Administration
+
+The Administration part must be protected by a user based login.
+
+### Access to the app
+
+The app should not be accessible without any login and must at least be protected by `.htaccess` in order to hide away information that could be used to get any information about the unit.
+
+### Other functionality
+
+Other functionality should not be protected by any security.
 
 # Todo
 
