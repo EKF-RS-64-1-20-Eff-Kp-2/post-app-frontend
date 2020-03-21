@@ -21,6 +21,10 @@ A Receiver has:
 * A Military Grade
 * A name
 
+**Military Grade**
+
+A list of Swiss Military Grades can be found [here](https://de.wikipedia.org/wiki/Grade_der_Schweizer_Armee).
+
 # Specification
 
 ## App
