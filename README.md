@@ -40,7 +40,7 @@ Configuration should not be a criteria for the first version but it must be poss
 
 The Administrator must be able to add a new Item.
 
-## Print list
+### Print list
 
 The Administrator must be able to print a list of all current Items.
 
