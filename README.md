@@ -1,4 +1,6 @@
-# Post App
+# Post App Frontend
+
+This is the repository for the frontend part of the Post App.
 
 ## Terms
 
